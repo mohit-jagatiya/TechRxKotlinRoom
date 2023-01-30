@@ -1,2 +1,2 @@
 # TechRxKotlinRoom
-RxKotlin in combination with the Room database
+RxKotlin in combination with the Room database by techextensor
