@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.techextensor.rxkotlin.app-mergeDebugResources-48:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\TechExtensor Mohit\\.gradle\\caches\\transforms-3\\292927a7b3efd337a4dd6c475423b2c7\\transformed\\appcompat-1.6.0\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

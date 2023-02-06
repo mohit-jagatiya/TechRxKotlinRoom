@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\TechExtensor Mohit\\.gradle\\daemon\\7.3.3\\com.techextensor.rxkotlin.app-mergeDebugResources-49:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\TechExtensor Mohit\\.gradle\\daemon\\7.3.3\\com.techextensor.rxkotlin.app-main-52:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\TechExtensor Mohit\\.gradle\\daemon\\7.3.3\\com.techextensor.rxkotlin.app-mergeDebugResources-49:\\layout\\task_item.xml",
+        "source": "C:\\Users\\TechExtensor Mohit\\.gradle\\daemon\\7.3.3\\com.techextensor.rxkotlin.app-main-52:\\layout\\task_item.xml"
+    },
+    {
+        "merged": "com.techextensor.rxkotlin.app-mergeDebugResources-49:/layout/activity_main.xml",
+        "source": "com.techextensor.rxkotlin.app-main-52:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\TechExtensor Mohit\\.gradle\\daemon\\7.3.3\\com.techextensor.rxkotlin.app-mergeDebugResources-49:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\TechExtensor Mohit\\.gradle\\daemon\\7.3.3\\com.techextensor.rxkotlin.app-main-52:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\TechExtensor Mohit\\.gradle\\daemon\\7.3.3\\com.techextensor.rxkotlin.app-mergeDebugResources-49:\\layout\\activity_main2.xml",
+        "source": "C:\\Users\\TechExtensor Mohit\\.gradle\\daemon\\7.3.3\\com.techextensor.rxkotlin.app-main-52:\\layout\\activity_main2.xml"
+    }
+]
